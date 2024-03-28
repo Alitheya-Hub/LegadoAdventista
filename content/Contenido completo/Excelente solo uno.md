@@ -1,7 +1,8 @@
 ---
-title: Ah!, ok, aquí eran los verdaderos título ¿Verdad? este es del index
-draft: true
+title: exacto independencia, dos soles no puede brillar en el mismo cielo
 ---
+Warning: you seem to be missing an `index.md` home page file at the root of your `content` folder. This may cause errors when deploying.
+
 # Bienvenido a mi Sitio Web
 
 ¡Hola! Bienvenido a mi sitio web. Soy [Tu Nombre], y este es mi espacio en la web donde comparto mis ideas, proyectos y pensamientos.
