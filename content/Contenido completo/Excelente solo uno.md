@@ -1,5 +1,5 @@
 ---
-title: exacto independencia, dos soles no puede brillar en el mismo cielo
+title: TITLE2
 ---
 Warning: you seem to be missing an `index.md` home page file at the root of your `content` folder. This may cause errors when deploying.
 
