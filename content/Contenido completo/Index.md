@@ -5,6 +5,8 @@ tags:
   - "#logrado"
   - API
   - component
+aliases:
+  - Jajaj no puede ser estoy frito
 ---
  
 # The rest of your content lives here. You can use **Markdown** here :)

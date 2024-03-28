@@ -1,3 +1,11 @@
+---
+title: Ya este también tiene
+draft: 
+aliases:
+  - Aliases2
+tags:
+  - "#porsifalta"
+---
 nO ES TAN FÁCIL
 # ASD
 ¡Hola! Bienvenido a mi sitio web. Soy [Tu Nombre], y este es mi espacio en la web donde comparto mis ideas, proyectos y pensamientos.
