@@ -1,5 +1,6 @@
 ---
 title: Ah!, ok, aquí eran los verdaderos título ¿Verdad? este es del index
+draft: true
 ---
 # Bienvenido a mi Sitio Web
 
