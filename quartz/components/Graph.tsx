@@ -56,6 +56,22 @@ const defaultOptions: GraphOptions = {
   },
 }
 
-export default () => {
-  return null;
-}
+export default ((opts?: GraphOptions) => {
+  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+    const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
+    const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
+    return (
+      <div class={classNames(displayClass, "graph")}>
+        <h3>{i18n(cfg.locale).components.graph.title}</h3>
+        <div id="global-graph-outer">
+          <div id="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+        </div>
+      </div>
+    )
+  }
+
+  Graph.css = style
+  Graph.afterDOMLoaded = script
+
+  return Graph
+}) satisfies QuartzComponentConstructor
