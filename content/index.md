@@ -1,5 +1,5 @@
 ---
-title: Pioneros sobre la Deidad
+title: Pioneros
 ---
 # Introducción
 
