@@ -5,7 +5,7 @@ title: Fuentes documentales
 > No se han adjuntado los libros que han sido transcritos y publicados oficialmente por los fideicomisarios en su páginas https://ellenwhite.org/ https://egwwritings.org/. En su lugar se ha optado por colocar el _código de libro_ para facilitar su búsqueda en las páginas ya mencionadas. En la siguiente imagen se puede observar un ejemplo práctico:
 > ![[Pasted image 20240328214342.png]]
 
----
+
 # Andreasen, Milian Lauritz (1876 – 1962)
 
 - [The Spirit of Prophecy](https://drive.google.com/file/d/1P7nl0qZgP69uWysYrL-OlLeUUC1u7G_c/view?usp=drive_link)
@@ -38,7 +38,7 @@ title: Fuentes documentales
 - [ST 25 de julio de 1878](https://drive.google.com/file/d/11SYkh0B6smKQGuo-nyIjSkTLsY7vz73l/view?usp=sharing)
 - [RH 22 de agosto de 1878](https://drive.google.com/file/d/1PttGdv8DYx4J6o12m2JDpI8U4sVMDLJW/view?usp=sharing)
 - [RH 29 de agosto de 1878](https://drive.google.com/file/d/1HyYxJB3Hw6nzm8MVjUp5QJfDjCfZCK_2/view?usp=sharing)
-- [Seventh-day Adventism Renounced](https://drive.google.com/file/d/16Ke4h_gonTH0PupUNCITa6V612yESHKY/view?usp=sharing
+- [Seventh-day Adventism Renounced](https://drive.google.com/file/d/16Ke4h_gonTH0PupUNCITa6V612yESHKY/view?usp=sharing)
 - [The Christian Workers Magazine, octubre 1915](https://drive.google.com/file/d/1y_t7jrTGv8-IfJKkfRX2v8aoAvlzRcMY/view?usp=sharing)
 
 # Charles S. Longacre (1871-1958)
