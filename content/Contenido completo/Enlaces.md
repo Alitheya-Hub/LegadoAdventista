@@ -1,7 +1,6 @@
 ---
 title: Fuentes documentales
 ---
-
 > [!Nota] Libros del *Ellen G. White® Estate*
 > No se han adjuntado los libros que han sido transcritos y publicados oficialmente por los fideicomisarios en su páginas https://ellenwhite.org/ https://egwwritings.org/. En su lugar se ha optado por colocar el _código de libro_ para facilitar su búsqueda en las páginas ya mencionadas. En la siguiente imagen se puede observar un ejemplo práctico:
 > ![[Pasted image 20240328214342.png]]
