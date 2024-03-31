@@ -3,7 +3,7 @@ title: Compilado de escritos de los pioneros adventistas
 ---
 *****La intención del presente compilado de escritos de los pioneros adventistas y otros hombres prominentes de las generaciones que les sucedieron, surge de la necesidad de que dejar en claro la posición histórica de la iglesia Adventista respecto a la deidad.*****
 
-__Varios historiadores denominacionales y ministerios independientes, etc., hacen declaraciones inexactas en cuando a los que creían los adventistas durante los primeros 50 años desde su fundación. Se ha dicho que no tenían ideas claras sobre la deidad, que solo una algunos y una mayoría sostenía que el Hijo de Dios fue engendrado literalmente por Dios, entre otras cosas, que están lejos de ser verdad.__
+__Varios historiadores denominacionales y ministerios independientes, etc., hacen declaraciones inexactas en cuando a los que creían los adventistas durante los primeros 50 años desde su fundación. ==Se ha dicho que no tenían ideas claras sobre la deidad,== que solo una algunos y una mayoría sostenía que el Hijo de Dios fue engendrado literalmente por Dios, entre otras cosas, que están lejos de ser verdad.__
 
 ____En el siguiente compilado usted podrá notar que la posición no trinitario de la deidad era sostenida por toda la denominación en su conjunto durante el tiempo de que Elena G. de White vivió, que el cambio doctrinal hacia la trinidad o triteísmo adventista es más reciente.____
 
