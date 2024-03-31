@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Schibsted Grotesk",
+        header: "Lora",
+        body: "Lora",
         code: "Lora",
       },
       colors: {
