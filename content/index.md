@@ -11,13 +11,5 @@ title: Bienvenido
 
 2. [[Fuente documental|Documentos originales de citas de los pioneros]]
 
-<div class="creative-button">
-  <div class="button-inner">
-    <span class="button-text">Botón de prueba</span>
-    <span class="button-icon">🚀</span>
-  </div>
-</div>
-
-
 ---
 
